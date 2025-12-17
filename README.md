@@ -17,7 +17,7 @@ I'm Vinicius Petribu — Computer Science student focused on backend development
 
 ## 📌 Featured Projects
 
-### 🔹 FINK — Startup (2024.2–present)
+### 🔹 FINK — Startup (2024.2–2025.2)
 A gamified financial-education platform for Gen Z.  
 Role: backend, domain design, data modeling, API structure, PBB Canvas, MVP definition.
 
