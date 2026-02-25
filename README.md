@@ -22,6 +22,8 @@ I'm Vinicius Petribu — Computer Science student focused on backend development
 A gamified financial-education platform for Gen Z.  
 Role: backend, domain design, data modeling, API structure, PBB Canvas, MVP definition.
 
+Repo: https://github.com/fink-finance
+
 ### 🔹 Predicting Diabetes — End-to-End ML Pipeline (2025.2)
 Machine learning project focused on data engineering and MLOps practices.
 Includes:
