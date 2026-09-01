@@ -3,8 +3,8 @@
 I'm Vinicius Petribu — Computer Science student focused on backend development, cybersecurity, data analysis and distributed systems.
 
 ## 🚀 About me
-- CS Student at CESAR School (2023.1–2026.2)  
-- Interested in security, backend engineering, automation, machine learning and system design  
+- CS Student at CESAR School (2023–2027)  
+- Interested in cybersecurity, backend engineering, automation, machine learning and data analytics
 - Experience with team collaboration, agile methods and real academic/industry projects  
 - Always improving: Python, C, Java/Spring Boot, SQL and distributed systems  
 
@@ -18,13 +18,13 @@ I'm Vinicius Petribu — Computer Science student focused on backend development
 
 ## 📌 Featured Projects
 
-### 🔹 FINK — Startup (2024.2–2025.2)
+### 🔹 FINK — Startup (2024–2025)
 A gamified financial-education platform for Gen Z.  
 Role: backend, domain design, data modeling, API structure, PBB Canvas, MVP definition.
 
 Repo: https://github.com/fink-finance
 
-### 🔹 Predicting Diabetes — End-to-End ML Pipeline (2025.2)
+### 🔹 Predicting Diabetes — End-to-End ML Pipeline (2025)
 Machine learning project focused on data engineering and MLOps practices.
 Includes:
 - Data ingestion via FastAPI
@@ -40,7 +40,7 @@ Focus: structured data pipeline, experiment reproducibility, model comparison an
 
 Repo: https://github.com/leticiagomesilva/Predicting-Diabetes
 
-### 🔹 SprintQuest — Java + Spring Boot + React + DDD + BDD (2025.1)
+### 🔹 SprintQuest — Java + Spring Boot + React + DDD + BDD (2025)
 Project-management system with gamification.  
 Includes:  
 - DDD architecture  
@@ -50,12 +50,12 @@ Includes:
 - Cucumber BDD test suite  
 Repo (team): https://github.com/brunoribeirol/jira-gamificado
 
-### 🔹 Autoline Honda — SQL + Java (2024.2)
+### 🔹 Autoline Honda — SQL + Java (2024)
 System for commercial and operational management of a car dealership.  
 Covers inventory, sales workflow, maintenance and admin processes.  
 Repo: https://github.com/brunoribeirol/autoline-honda-backend
 
-### 🔹 TiMath — C (2024.1)
+### 🔹 TiMath — C (2024)
 Interactive math CLI game built in C, showcased at TechDesign.  
 Repo: https://github.com/brunoribeirol/timath
 
